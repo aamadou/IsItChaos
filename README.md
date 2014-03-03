@@ -1,4 +1,4 @@
 IsItChaos
 =========
 
-Scientifique Tool for CHaos Recognision
+Scientifique Tool for Chaos Recognision
